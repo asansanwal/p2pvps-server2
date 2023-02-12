@@ -9,5 +9,5 @@ export default {
 module.exports = {
   session: 'secret-boilerplate-token',
   token: 'secret-jwt-token',
-  database: 'mongodb://localhost:3500/p2pvps-server-prod'
+  database: 'mongodb://165.140.84.23:3500/p2pvps-server-prod'
 }
