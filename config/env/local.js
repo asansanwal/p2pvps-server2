@@ -11,5 +11,5 @@ module.exports = {
   token: 'secret-jwt-token',
 
   // Used for local development.
-  database: 'mongodb://serverdeployment2_mongodb_1:27017/p2pvps-server-local'
+  database: 'mongodb://localhost:3500/p2pvps-server-local'
 }
